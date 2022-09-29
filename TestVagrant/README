@@ -1,0 +1,8 @@
+Instruction to execute tests-
+
+There is nothing hard to to execute the test case you just have to 
+Following are the steps to execute the test:-
+1. Open POM_TestNG package
+2. In that open TestClass class and
+3. just run the class(program) of TestClass
+
